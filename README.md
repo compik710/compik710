@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @compik710
 - 👀 I’m interested in GPU calculations
 - 🌱 I’m currently learning "philosophy"
-- 💞️ I’m looking to collaborate on taichi repositiory
+- 💞️ I’m looking to collaborate on moderngl repositiory
 - 📫 How to reach me? Create an issue on github and add @compik710
 
 <!---
